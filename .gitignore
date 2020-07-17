@@ -1,0 +1,4 @@
+build
+ytbingo.egg-info
+*.pyc
+.venv
